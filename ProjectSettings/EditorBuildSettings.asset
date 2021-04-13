@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Demo_City_Playable.unity
+    guid: 1ab4e092ef6da5d4eb34f64b7f3936c8
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 76c9bfeb3f8c6a24bbed2056b447be0b
+  m_configObjects: {}
